@@ -1,11 +1,13 @@
-<img src="https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG2.jpeg" alt="Drawing" 
-/>
+## Artifacts
+![Figure 1-2](WechatIMG2.jpeg?raw=true)
+![Figure 1-1](WechatIMG1.jpeg?raw=true)
 
 
-![Figure 1](https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG2.jpeg ?raw=true)
-
-![Figure 2](WechatIMG2.jpeg?raw=true)
 
 
-<img src="https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG1.jpeg" alt="Drawing" style="width: 50px;"/>
+
+## What it means to be an aviation fan
+![Figure 2-1](helmet.jpg?raw=true)
+![Figure 2-1](stl-cockpit.jpg?raw=true)
+
 
