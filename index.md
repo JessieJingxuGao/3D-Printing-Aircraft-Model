@@ -7,7 +7,8 @@
 
 
 ## What it means to be an aviation fan
+![Figure 2-1](stl-cockpit.jpg?raw=true =250x)
 ![Figure 2-1](helmet.jpg?raw=true)
-![Figure 2-1](stl-cockpit.jpg?raw=true)
+
 
 
