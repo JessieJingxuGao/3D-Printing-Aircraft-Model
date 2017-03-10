@@ -1,4 +1,3 @@
+<img src="https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG2.jpeg" alt="Drawing" style="width: 1500px;"/>
 
-![Image1](https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG1.jpeg)
-
-![Image2](https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG2.jpeg)
+<img src="https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG1.jpeg" alt="Drawing" style="width: 150px;"/>
