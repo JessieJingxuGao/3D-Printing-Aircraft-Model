@@ -1,4 +1,4 @@
 
-![Image](/Users/Jessie/Downloads/WechatIMG1.jpeg)
+![Image1](https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG1.jpeg)
 
-![Image](/Users/Jessie/Downloads/WechatIMG2.jpeg)
+![Image2](https://github.com/JessieJingxuGao/3D-Printing-Aircraft-Model/blob/master/WechatIMG2.jpeg)
