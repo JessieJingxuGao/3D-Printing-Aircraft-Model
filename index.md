@@ -6,7 +6,7 @@
 
 
 
-## Easter egg！！！
+## Easter Egg！！！
 ![Figure 2-1](stl-cockpit.jpg?raw=true =100x)
 ![Figure 2-1](helmet.jpg?raw=true)
 
