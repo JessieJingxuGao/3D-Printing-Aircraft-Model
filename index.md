@@ -6,7 +6,7 @@
 
 
 
-## What it means to be an aviation fan
+## Easter egg！！！
 ![Figure 2-1](stl-cockpit.jpg?raw=true =100x)
 ![Figure 2-1](helmet.jpg?raw=true)
 
